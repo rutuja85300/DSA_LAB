@@ -51,9 +51,10 @@ Dijkstra's algorithm from single source to all destination
 9. Heap Sort \
 Implement Heap sort to sort given set of values using max or min heap.
 
-10. FILE Handling 
+10. FILE Handling -- CO1, CO3, CO5
 Department maintains student’s database. The file contains roll number, name, division and address.
 Write a program to create a sequential file to store and maintain student data. It should allow the
 user to add, delete information of student. Display information of particular student. If record of
 student does not exist an appropriate message is displayed. If student record is found it should
 display the student details.
+
